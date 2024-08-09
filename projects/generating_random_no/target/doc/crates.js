@@ -1,0 +1,1 @@
+window.ALL_CRATES = ["generating_random_no"];
